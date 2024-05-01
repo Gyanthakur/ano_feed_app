@@ -11,6 +11,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "next": "14.2.2",
+    "next-auth": "^4.24.7",
     "node": "^18.20.2",
     "react": "^18",
     "react-dom": "^18",
